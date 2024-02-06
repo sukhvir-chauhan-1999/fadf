@@ -4,7 +4,6 @@ This repository contains the code for Age Transformation gradio Interface which 
 The output image shows the image in which the person will look like at that age.
 
 
-e.g. 
 
 
 
